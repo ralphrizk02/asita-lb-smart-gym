@@ -1,0 +1,1 @@
+# asita-lb-smart-gym
