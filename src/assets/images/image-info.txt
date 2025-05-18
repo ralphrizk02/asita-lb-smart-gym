@@ -1,0 +1,13 @@
+ASITA Smart Gym Image Information
+
+hero.jpg - Front view of the ASITA H Lite Smart Home Gym, a sleek wall-mounted fitness machine with pulleys, cables, and digital display. The machine has a contemporary design with blue accents on a black/dark gray frame.
+
+angle.jpg - Side angle view of the ASITA Smart Gym machine showing the profile with adjustable arms and cable system. This perspective shows how compact and space-efficient the machine is.
+
+workout.jpg - Person using the ASITA Smart Gym for strength training. Shows a male or female athlete performing a cable exercise with the machine, demonstrating its versatility.
+
+gallery1.jpg - Close-up of the ASITA Smart Gym touchscreen interface showing workout statistics, with the machine visible in the background in a modern home setting.
+
+machine_01.jpg to machine_16.jpg - Sequence of the ASITA H Smart Gym from different angles (rotating clockwise), showing a complete 360° view of the machine for the interactive rotation effect.
+
+Note: These are currently using placeholder images that should be replaced with actual product photos when available. For the video section, please upload a proper product demonstration video instead of using the Rick Roll placeholder. 
